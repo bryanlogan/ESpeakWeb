@@ -6,7 +6,7 @@ simple PHP interface for espeak on raspbian/debian
 Install the following packages 
 
 ````
-$ sudo apt-get install apache2 libmodapache2-php5 php5 php5-common php5-cgi espeak sox
+$ sudo apt-get install apache2 libapache2-mod-php5 php5-common php5-cgi espeak sox
 ````
 
 Place the PHP files in a directory accessible to apache. For example: /var/www/tts
