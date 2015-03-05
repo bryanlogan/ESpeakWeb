@@ -17,7 +17,7 @@ Grant the apache2 service account access to play audio
 $ sudo usermod -G audio www-data
 ````
 
-Access the TTS site from your web browser. For example if your device's IP is 192.168.1.10 and you installed the php files in /var/www/tts you would go to http://192.168.11.10/tts
+Access the TTS site from your web browser. For example if your device's IP is 192.168.1.10 and you installed the php files in /var/www/tts you would go to http://192.168.1.10/tts
 
 Use the form to test the TTS.
 
